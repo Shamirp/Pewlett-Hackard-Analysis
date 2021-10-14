@@ -7,7 +7,7 @@
  ## Results 
  
  ![Retiring_count](https://user-images.githubusercontent.com/88383836/137404733-7b76b247-c598-4bbe-87cd-2ca63e574318.PNG)
-Retiting Titles
+Retiring Titles
  
  ![Mentorship_elgibility](https://user-images.githubusercontent.com/88383836/137404764-273b8ae7-d982-4410-aef7-88e608e974a3.PNG)
 Mentorship Elgibility 
