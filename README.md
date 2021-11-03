@@ -5,12 +5,12 @@
  
  
  ## Results 
- 
+### Retiring Title 
  ![Retiring_count](https://user-images.githubusercontent.com/88383836/137404733-7b76b247-c598-4bbe-87cd-2ca63e574318.PNG)
-Retiring Titles
- 
+
+### Mentorship Elgibility
  ![Mentorship_elgibility](https://user-images.githubusercontent.com/88383836/137404764-273b8ae7-d982-4410-aef7-88e608e974a3.PNG)
-Mentorship Elgibility 
+ 
  
 
 •	 A key point from the retiring titles table and the mentorship eligibility table is most of the employees that are eligible to mentor are also the leading titles for retirement.
@@ -23,11 +23,12 @@ Mentorship Elgibility
 
 ## Summary
 
+### Total Employee by Title Code
 ![Total_emp_by_title](https://user-images.githubusercontent.com/88383836/137404819-fee808b5-1fb5-449d-84ea-80373da21c82.PNG)
-Total Employee by Title Code
 
+### Total Employee by Title Table
 ![Emp_by_title_table](https://user-images.githubusercontent.com/88383836/137404833-bcb0280f-41c0-4478-9afa-35e770a708b1.PNG)
-Total Employee by Title Table
+
 
 
 Using the total employee count by title I created and the retiring titles table I checked the percentage of employees by title that will be retiring. The percentage of total employees that can retire are Engineer 12%, Staff 11%, Senior Engineer 30%, Senior Staff 30%, Technical Leader 30%, Assistant Engineer 12%, Manager 8%. 
